@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星の子",
+  "base_artist": "アルウ",
+  "createdAt": "2026-03-01T06:09:06.764767Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星の子 (feat. 初音ミク)",
+      "artist": "アルウ",
+      "has_synced": false,
+      "path": "select/pl_01_星の子_(feat._初音ミク)_アルウ.txt"
+    }
+  ]
+}
